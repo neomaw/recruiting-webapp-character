@@ -44,3 +44,24 @@
     transform: rotate(360deg);
   }
 }
+
+.add-new-character-button{
+  background-color: grey;
+  color: white;
+  border: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+.add-new-character-button:hover{
+  background-color: white;
+  color: black;
+}
+
+.single-character-container {
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 2rem;
+}
